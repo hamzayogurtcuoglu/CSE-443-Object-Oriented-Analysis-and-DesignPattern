@@ -1,0 +1,5 @@
+Version Name : Version-3
+Solution found in generation 31488
+Fitness: 126.02243040179238
+Genes: 
+        2.0136731002834227        2.986311618041258
